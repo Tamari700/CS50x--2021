@@ -2,4 +2,5 @@
 
 Below are my solutions to CS50 - 2021 problem sets and labs.
 
-Weel 0 - Scratch
+- Week0 - Scratch
+
